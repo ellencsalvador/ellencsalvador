@@ -1,5 +1,10 @@
 # Olá, eu sou Ellen Salvador 👋
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ### Paulistana em Ilhabela | Especialista em Processos | Futura Dev Full Stack & QA
 
 Sou apaixonada por tecnologia e automação. Com 15 anos de experiência em gestão, hoje unifico essa bagagem estratégica com competências técnicas para garantir a qualidade de software e criar soluções inteligentes com IA.
